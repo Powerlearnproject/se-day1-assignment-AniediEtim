@@ -1,0 +1,89 @@
+Software engineering is a discipline focused on systematic development of high-quality software products using engineering principles, methods and tools.
+Importance in the Technology Industry:
+1. Efficiency: Software engineering ensures that software is developed efficiently, reducing costs and time to market.
+2. Quality: By following established processes and standards, software engineers can produce high-quality software that is reliable and error-free.
+3. Maintainability: Well-engineered software is easier to maintain and update over time.
+4. Scalability: Software engineering principles help in building software that can handle increasing workloads and demands.
+
+Question 2
+Key Milestones in Software Engineering
+1. The First Software Bug: In 1947, Grace Hopper found a moth trapped in a relay switch of a Harvard Mark II computer, leading to the term "bug" being used to describe software errors.
+2. Structured Programming: In the 1960s, structured programming, advocated by Edsger Dijkstra, introduced concepts like top-down design and modularity, leading to more readable and maintainable code.
+3. Object-Oriented Programming (OOP): Developed in the 1960s and gaining popularity in the 1980s, OOP introduced the concept of objects, which encapsulate data and behavior, making software more modular and reusable.
+
+Question 3
+Phases of the Software Development Life Cycle (SDLC)
+1. Requirements Gathering: Identifying and documenting the specific needs and goals of the software.
+2. Design: Creating a blueprint of the software, including its architecture, components, and interactions.
+3. Development: Writing the actual code based on the design.
+4. Testing: Verifying the software's functionality, performance, and reliability.
+5. Deployment: Installing the software in its intended environment.
+6. Maintenance: Ongoing updates, bug fixes, and enhancements.
+
+Question 4
+Waterfall vs. Agile Methodologies
+Waterfall:
+Linear approach with sequential phases.
+Suitable for projects with well-defined requirements and minimal changes.
+Less flexible, making it difficult to adapt to changing requirements.
+Agile:
+Iterative and incremental approach.
+Emphasizes flexibility, collaboration, and continuous feedback.
+Ideal for projects with evolving requirements or uncertain outcomes.
+
+Question 5
+Roles in a Software Engineering Team
+1. Software Developer: Writes code, implements features, and tests the software.
+2. Quality Assurance Engineer: Tests the software for defects, ensures quality, and creates test cases.
+3. Project Manager: Oversees the project, manages resources, and ensures the project is completed on time and within budget.
+
+Question 6
+Importance of IDEs and VCS
+IDEs (Integrated Development Environments): Provide a comprehensive set of tools for software development, including code editing, debugging, and building.
+Examples: Visual Studio, Eclipse, IntelliJ IDEA.
+VCS (Version Control Systems): Track changes to source code over time, allowing for collaboration, rollback, and history management.
+Examples: Git, SVN, Mercurial.
+
+Question 7
+Common Challenges and Strategies
+1. Complexity: Break down problems into smaller, manageable parts.
+2. Changing Requirements: Embrace flexibility and adapt to changes.
+3. Time Constraints: Prioritize tasks, manage resources effectively, and use tools like Agile methodologies.
+4. Technical Debt: Address technical debt proactively to maintain code quality and avoid future issues.
+
+Question 8
+Testing Types
+1. Unit Testing: Testing individual components or functions.
+2. Integration Testing: Testing how components interact with each other.
+3. System Testing: Testing the entire system as a whole.
+4. Acceptance Testing: Testing the software against user requirements and acceptance criteria.
+
+Question 9
+Part 2: Introduction to AI and Prompt Engineering
+Prompt Engineering: The art of crafting effective prompts to interact with AI models and elicit desired responses.
+
+Importance:
+1. Clear Communication: Well-crafted prompts ensure the AI understands the user's intent accurately.
+2. Quality Output: Effective prompts lead to more relevant and helpful AI-generated content.
+
+Question 10
+Example:
+1. Vague Prompt: "Tell me about dogs."
+2. Improved Prompt: "Describe the characteristics of Labrador Retrievers, including their temperament, physical attributes, and common health issues."
+The improved prompt is more effective because it is specific, concise, and provides context, making it easier for the AI to generate a relevant and informative response.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
